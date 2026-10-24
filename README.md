@@ -1,0 +1,2 @@
+ # Docker project 
+ This Docker project conatains infrastucture as ac code (IaC) templates,configurations, and other technical things required to build and run desired software stack worloads as a contaerized applications.
